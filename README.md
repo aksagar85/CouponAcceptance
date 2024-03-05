@@ -1,4 +1,5 @@
 Will a Customer Accept the Coupon?
+
 Context
 
 Imagine driving through town and a coupon is delivered to your cell phone for a restaraunt near where you are driving. Would you accept that coupon and take a short detour to the restaraunt? Would you accept the coupon but use it on a sunbsequent trip? Would you ignore the coupon entirely? What if the coupon was for a bar instead of a restaraunt? What about a coffee house? Would you accept a bar coupon with a minor passenger in the car? What about if it was just you and your partner in the car? Would weather impact the rate of acceptance? What about the time of day?
@@ -100,6 +101,9 @@ Overall 50% coffee coupons were accepted.
 So the people who go to coffee house more frequently or people who at least go once a month to coffee house and are older than 25 years will more likely to accept the coupons 
 
 
+Referece : 
+
+Jupyter Notebook to refer code and visualization : https://github.com/aksagar85/CouponAcceptance/tree/main#:~:text=Coupon%2DAmit%2DJupyterNotebook.ipynb
 
 
 
